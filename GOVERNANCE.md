@@ -91,6 +91,6 @@ The author of an accepted proposal should be added to the
 All versions of the ACDD 1.3 should be kept available online, and for ACDD 1.3.X onward should also include their github discussion issues.
 
 The workflow associated with standard name proposals is summarized in the diagram below.
-![Schematic representation of how standard names are processed using github issues and the vocabulary editor.]([Data/media/images/cf-standard-names-process.png](https://github.com/cf-convention/cf-convention.github.io/blob/main/Data/media/images/cf-standard-names-process.png))
+![Schematic representation of how standard names are processed using github issues and the vocabulary editor.](https://github.com/cf-convention/cf-convention.github.io/blob/main/Data/media/images/cf-standard-names-process.png)
 
 These rules were modified from those of the CF Conventions (https://cfconventions.org/standard_name_rules.html) and we thank those contributors.
