@@ -74,9 +74,13 @@ All previously published versions of the conventions will be available as releas
 1. Make an issue
 1. Issue will be available for open discussion for any interested participants
 1. Issues can be closed under the following conditions:
-   1. Once consensus is reached, the issue can be closed and move to summary and Pull Request
-   1. After no activity in the issue for 3 months, an automated message will prompt administrators to take some action on the issue (close, raise for more discussion, merge, leave open, etc.). After three additional months it will become a [dormant issue](#dormant-issues).
-1. After no discussion for one week the issue will be closed or implemented according to the consensus reached. 
+   1. Once consensus is reached:
+      * a conclusion/summary should be clearly stated
+      * any objections should be discussed and either addressed or withdrawn
+      * no objections for three weeks after conclusion stated or last objection closed 
+   1. After no activity in the issue for 3 months:
+      * An automated message will prompt administrators to take some action on the issue (close, raise for more discussion, merge, leave open, etc.). After three additional months it will become a [dormant issue](#dormant-issues).
+1. After no discussion for three weeks the issue will be closed or implemented according to the consensus reached. 
 1. Some admin (TBD) will describe the final decision and propose the changes as a Pull Request or instruct someone else to propose the changes. 
 1. Pull Request will be merged after final review period of one week.
 1. If there are objections, a new issue can be opened.
